@@ -1,0 +1,25 @@
+html {
+	background: url(../images/sky_clouds_sch_fchen-1209563.jpg)
+	no-repeat center center fixed; 
+	background-size: cover;	
+}
+
+#mainDiv {
+	text-align: center;
+	margin-top: 10%;
+	width: 35%;
+}
+
+#forecastDiv {
+	text-align: center;
+}
+
+#city {
+	margin: 5% 0;
+}
+
+.alert {
+	width: 40%;
+	margin: 5% auto;
+}
+
